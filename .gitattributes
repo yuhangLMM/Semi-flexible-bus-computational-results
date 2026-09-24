@@ -1,0 +1,2 @@
+# Keep every file byte-identical (instance files are referenced by SHA-256)
+* -text
